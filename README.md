@@ -1,24 +1,8 @@
-# حلول متقدمة لخوارزميات المستوى الأول
+# Algorithms Level 1 
+There are 50 (easy) problems solved using the Divide and Conquer strategy, integrating most of the techniques I have learned, such as structs, enums, and others.
+The repository contains my solutions to all fifty problems. Some solutions may have been copied from the instructor after I had already solved them, in order to better reinforce the concepts.
 
-## وصف المستودع
+The code is well-formatted, but there are some differences in how programs are presented. This is a matter of personal preference, since the final solution is ultimately the same.
 
-في الكورس الرابع من خارطة الطريق نعيد حل مسائل الكورس الثاني التي كنا قد طبقنا عليها مفاهيم لغة سي بلس بلس بشكل كافي في الكورس الثالث.
-
-50 مسألة تحل عن طريق سياسة فرق تسد ودمج أغلب ما تعلمناه من تكنيكات كالستركت والإنيم وغيرها. المستودع يحتوي على حلولي لكافة الخمسين سؤالًا، قد يكون هناك بعض الأسئلة التي نسخت حلها من الدكتور بعد حلي لها لترسيخ المعلومة.
-
-الأكواد منسقة بشكل جيد لكن يوجد بعض الاختلافات في طريقة عرض البرنامج، المسألة تفضيل شخصي لأن الحل واحد في النهاية.
-
-تعلمت من سوء تنسيقي لمستودع الكورس الثالث وأرجو أن يكون هذا المستودع واضحًا وسهل القراءة لمن يعثر عليه.
-
-## نصائح لطلاب الكورس الرابع
-
-* الصبر وعدم الضجر من إعادة حل المسائل بطريقة مختلفة.
-* عدم مشاهدة الفيديو وحل الدكتور قبل حل السؤال بأفضل طريقة تأتي على بالك.
-* لا تشعر بالإحباط إذا فوجئت بحل الدكتور، نحن هنا لنتعلم، فالفارق في الخبرة كبير.
-
-## أبرز ما تعلمته خلال هذا الكورس
-
-* المثابرة وقتل الملل.
-* تنسيق الكود وترتيب الملفات لسهولة الوصول.
-* توسعت مداركي تجاه طرق الحل المختلفة لبعض المسائل في الإنمز والستركت.
-* البحث عن تكنكيات الأستاذ في حل بعض المسائل بطريقة مبتكرة (المتغيرات وأماكنها، ترتيب الدوال إلخ.)
+# Whats new that I learnt
+- Broadened my perspective on different solution approaches for some problems involving enums and structs.
