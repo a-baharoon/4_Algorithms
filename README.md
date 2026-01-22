@@ -1,8 +1,18 @@
-# Algorithms Level 1 
-There are 50 (easy) problems solved using the Divide and Conquer strategy, integrating most of the techniques I have learned, such as structs, enums, and others.
-The repository contains my solutions to all fifty problems. Some solutions may have been copied from the instructor after I had already solved them, in order to better reinforce the concepts.
+# Algorithms – Level 1
 
-The code is well-formatted, but there are some differences in how programs are presented. This is a matter of personal preference, since the final solution is ultimately the same.
+## Overview
+This repository contains 50 easy problems solved using the Divide and Conquer approach.
+The goal of this level is to build a strong foundation by integrating most of the techniques learned so far, such as structs, enums, and basic problem decomposition.
 
-# Whats new that I learnt
-- Broadened my perspective on different solution approaches for some problems involving enums and structs.
+The repository includes my solutions to all fifty problems. Some solutions may have been copied from the instructor after solving them independently, in order to reinforce the concepts and compare approaches.
+
+### Notes
+- There may be slight differences in how programs are presented, which comes down to personal preference—the core logic and final results remain the same.
+
+## What I Learned in This Level
+
+- Broadened my perspective on different solution approaches for problems involving enums and structs
+
+- Improved my ability to break down simple problems using Divide and Conquer
+
+- Gained more confidence in organizing logic before writing code
